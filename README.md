@@ -9,5 +9,12 @@
 5. week5
 6. week6
 7. week7
-8. week8
+  - when button click (input.getkey ...)
+  - transform
+  - rotation
+  
+8. week8 
+  - collision detection
+  - scene change
+  - flappy bird game 
 ```
