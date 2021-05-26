@@ -2,8 +2,8 @@
 
 ## Contents
 
-1. [Audio](#1.-Audio)
-2. [3D Sound](#2.-3D-Sound)
+1. [Audio](#1-Audio)
+2. [3D Sound](#2-3D-Sound)
 
 ```
 import 
