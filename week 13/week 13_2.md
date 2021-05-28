@@ -82,4 +82,4 @@ public class Enemy : MonoBehaviour
 
 프로젝트 뷰 – Create – [Animator Controller]
 
-![animation controller 수정](\motion.png)
+![](\motion.png)
