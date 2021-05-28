@@ -5,7 +5,7 @@
 1. [3D캐릭터 구조](#1-3D캐릭터-구조)  
 2. [Animation Retargeting](#2-Animation-Retargeting)
 3. [Game 제작 준비 및 네비게이션 AI](#3-Game-제작-준비-및-네비게이션-AI)
-4. [모션 처리](#4=모션-처리)
+4. [모션 처리](#4-모션-처리)
 
 ```
 import
