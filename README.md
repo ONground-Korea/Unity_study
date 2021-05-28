@@ -19,9 +19,14 @@
   - flappy bird game 
 
 13. week 13
-  - sound
-  - 3d sound
-
+  - 13_1
+    - sound
+    - 3d sound
+  
+  - 13_2
+    - animation
+    - navigation AI
+    
 14. week 14
   - 
 ```
