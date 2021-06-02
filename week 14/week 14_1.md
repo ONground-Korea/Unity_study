@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
 }
 ```
 사용할 애니메이션을 Animator창에 넣고, 기준 애니메이션과 연결시킨다.
+![](https://github.com/ONground-Korea/Unity_study/blob/main/week%2014/pictures/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-06-02%20175449.png?raw=true)
+
 
 ## 2. Charactor, Animation change
 
@@ -42,6 +44,7 @@ Materials -> Extract Textures (같은 폴더에)
 Animation -> Loop Time 체크
 ```
 로 설정 후, fbx파일을 Scene에 배치.
+![configure 클릭시](https://github.com/ONground-Korea/Unity_study/blob/main/week%2014/pictures/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-06-02%20180222.png?raw=true)
 
 캐릭터의 Animator -> Controller 설정 (자신이 만들어 놓은 Animator Controller 혹은 Standard Assets의 ThirdPersonAnimatorController을 변경하여 사용하면 된다.)
 
@@ -51,4 +54,4 @@ ThirdPersonAnimatorController에서 달리기 애니메이션만 다른 것으�
 
 `Animator -> Ground 더블클릭 -> 달리기 Motion 을 다른 것으로 변경`
 
-![]()
+![](https://github.com/ONground-Korea/Unity_study/blob/main/week%2014/pictures/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-06-02%20182235.png?raw=true)
