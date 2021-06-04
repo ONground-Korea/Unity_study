@@ -28,5 +28,7 @@
     - navigation AI
     
 14. week 14
-  - 
+  - 14_1
+    - Animation
+    - Character, Animation change
 ```
