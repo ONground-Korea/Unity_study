@@ -40,3 +40,5 @@ public class SceneChanger : MonoBehaviour
 File - Build Settings - Scenes in Build 에 제작된 Scenes를 모두 추가
 
 ### 1.2 Scripts
+
+[Scripts](https://github.com/ONground-Korea/Unity_study/tree/main/week%2014/scripts)
