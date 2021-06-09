@@ -21,11 +21,14 @@ import StandardAssets -> Characters, CorssPlatforms, Utility
 ### 1.1 인트로 애니메이션 
 
 1. Camera Object를 선택 후 녹화 시작
-2. 원하는 카메라 포지션(뷰)에서 `ctrl + shift + f`
-3. 녹화 중단
+![](https://github.com/ONground-Korea/Unity_study/blob/main/week%2015/pictures/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-06-09%20173836.png?raw=true)
+3. 원하는 카메라 포지션(뷰)에서 `ctrl + shift + f`
+4. 녹화 중단
      - intro 동영상이 무한 반복되지 않게 하려면 Loop Time 체크 해제
-4. Curves를 사용하여 미세 조정
-5. 인트로 영상에서 아무 키나 눌렀을 때 Main Scene으로 이동
+
+![](https://github.com/ONground-Korea/Unity_study/blob/main/week%2015/pictures/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202021-06-09%20175027.png?raw=true)
+5. Curves를 사용하여 미세 조정
+6. 인트로 영상에서 아무 키나 눌렀을 때 Main Scene으로 이동
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -48,4 +51,4 @@ public class GotoMain : MonoBehaviour
     }
 }
 ```
-![영상]()
+![영상](https://github.com/ONground-Korea/Unity_study/blob/main/week%2015/pictures/intro.gif?raw=true)
